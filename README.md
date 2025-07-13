@@ -48,9 +48,10 @@ kbo_npb_project/
 │   ├── mlb_pitching.csv
 │   ├── mlb_fielding.csv
 │   ├── mlb_people.csv
+│   ├── ERD_future_v1.0_DRAFT.drawio
 │   ├── ERD_cleaned_v0.2.drawio
 │   └── ERD_cleaned_v0.2.pdf
-├── MLB/                 # Raw datasets from Lahman Baseball Database by Sean Lahman: https://sabr.org/lahman-database/
+├── MLB/                 # Raw datasets from Lahman Baseball Database: https://sabr.org/lahman-database/
 │   ├── data/
 │   └── scrapper/
 ├── NPB/                 # Raw datasets and web scraper files for NPB
