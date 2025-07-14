@@ -57,7 +57,7 @@ kbo_npb_project/
 ├── NPB/                         # Raw datasets and web scraper files for NPB
 │   ├── data/
 │   └── scrapper/
-├── vignettes/                   # Vignettes using datasets above
+├── vignettes/                   # Data exploration using datasets above
 └── README.md                    # This file
 ```
 
