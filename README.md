@@ -35,7 +35,7 @@ kbo_npb_project/
 │   ├── ERD_initial.drawio
 │   └── ERD_initial.pdf
 ├── KBO+NPB+MLB/             # Combined KBO, NPB, and MLB datasets
-│   ├── rawfiles/
+│   ├── code/
 │   ├── kbo_batting.csv
 │   ├── kbo_fielding.csv
 │   ├── kbo_people.csv
