@@ -32,8 +32,8 @@ kbo_npb_project/
 │   ├── npb_fielding.csv
 │   ├── npb_people.csv
 │   ├── npb_pitching.csv
-│   ├── ERD_current_v0.1.drawio
-│   └── ERD_current_v0.1.pdf
+│   ├── ERD_initial.drawio
+│   └── ERD_initial.pdf
 ├── KBO+NPB+MLB/             # Combined KBO, NPB, and MLB datasets
 │   ├── rawfiles/
 │   ├── kbo_batting.csv
@@ -48,9 +48,10 @@ kbo_npb_project/
 │   ├── mlb_pitching.csv
 │   ├── mlb_fielding.csv
 │   ├── mlb_people.csv
-│   ├── ERD_future_v1.0_DRAFT.drawio
-│   ├── ERD_cleaned_v0.2.drawio
-│   └── ERD_cleaned_v0.2.pdf
+│   ├── ERD_future_DRAFT.drawio
+│   ├── ERD_future_DRAFT.pdf
+│   ├── ERD_cleaned.drawio
+│   └── ERD_cleaned.pdf
 ├── MLB/                         # Raw datasets from Lahman Baseball Database: https://sabr.org/lahman-database/
 │   ├── data/
 │   └── scrapper/
