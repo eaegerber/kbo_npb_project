@@ -51,13 +51,14 @@ kbo_npb_project/
 │   ├── ERD_future_v1.0_DRAFT.drawio
 │   ├── ERD_cleaned_v0.2.drawio
 │   └── ERD_cleaned_v0.2.pdf
-├── MLB/                 # Raw datasets from Lahman Baseball Database: https://sabr.org/lahman-database/
+├── MLB/                         # Raw datasets from Lahman Baseball Database: https://sabr.org/lahman-database/
 │   ├── data/
 │   └── scrapper/
-├── NPB/                 # Raw datasets and web scraper files for NPB
+├── NPB/                         # Raw datasets and web scraper files for NPB
 │   ├── data/
 │   └── scrapper/
-└── README.md              # This file
+├── vignettes/                   # Vignettes using datasets above
+└── README.md                    # This file
 ```
 
 ---
