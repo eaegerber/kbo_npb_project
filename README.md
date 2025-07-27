@@ -23,7 +23,7 @@ kbo_npb_project/
 │   ├── data/
 │   └── scrapper/
 ├── KBO+NPB/             # Combined KBO and NPB datasets
-│   ├── rawfiles/
+│   ├── raw/
 │   ├── kbo_batting.csv
 │   ├── kbo_fielding.csv
 │   ├── kbo_people.csv
@@ -35,7 +35,7 @@ kbo_npb_project/
 │   ├── ERD_initial.drawio
 │   └── ERD_initial.pdf
 ├── KBO+NPB+MLB/             # Combined KBO, NPB, and MLB datasets
-│   ├── code/
+│   ├── raw/
 │   ├── kbo_batting.csv
 │   ├── kbo_fielding.csv
 │   ├── kbo_people.csv
@@ -48,13 +48,20 @@ kbo_npb_project/
 │   ├── mlb_pitching.csv
 │   ├── mlb_fielding.csv
 │   ├── mlb_people.csv
-│   ├── ERD_future_DRAFT.drawio
-│   ├── ERD_future_DRAFT.pdf
 │   ├── ERD_cleaned.drawio
 │   └── ERD_cleaned.pdf
 ├── MLB/                         # Raw datasets from Lahman Baseball Database: https://sabr.org/lahman-database/
 │   ├── data/
 │   └── scrapper/
+├── MNK_merged/                  # Merged datasets of KBO, NPB and MLB: a master people, batting, pitching and batting
+│   ├── raw/
+│   ├── ERD_final.drawio
+│   ├── ERD_final.pdf
+│   ├── merged_player_records.csv
+│   ├── mnk_batting.csv
+│   ├── mnk_fielding.csv
+│   ├── mnk_people.csv
+│   └── mnk_pitching.csv
 ├── NPB/                         # Raw datasets and web scraper files for NPB
 │   ├── data/
 │   └── scrapper/
