@@ -1,10 +1,11 @@
-lgID,lg_Value
-1,AL
-2,NL
-3,CL
-4,PL
-5,KBO
-6,AA
-7,FL
-8,UA
-9,JBL
+lgID,country,lg_Value
+AL,USA,American League
+NL,USA,National League
+CL,Japan,Central League
+PL,Japan,Pacific League
+KBO,Korea,Korea Baseball Organization
+AA,USA,American Association
+FL,USA,Federal League
+UA,USA,Union Association
+JBL,Japan,Japan Baseball League
+UPL,USA,Players League

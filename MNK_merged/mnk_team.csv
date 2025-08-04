@@ -1,256 +1,218 @@
-teamID,team_Value
-100,ANA
-101,BAL
-102,BLA
-103,BOS
-104,CAL
-105,CHA
-106,CLE
-107,DET
-108,KC1
-109,KCA
-110,LAA
-111,MIN
-112,ML4
-113,MLA
-114,NYA
-115,OAK
-116,PHA
-117,SE1
-118,SEA
-119,SLA
-120,TBA
-121,TEX
-122,TOR
-123,WS1
-124,WS2
-200,ARI
-201,ATL
-202,BFN
-203,BLN
-204,BRO
-205,BSN
-206,CHN
-207,CIN
-208,CL2
-209,CL4
-210,CN1
-211,COL
-212,DTN
-213,FLO
-214,HAR
-215,HOU
-216,IN1
-217,IN3
-218,KCN
-219,LAN
-220,LS1
-221,LS3
-222,MIA
-223,MIL
-224,ML1
-225,ML2
-226,MON
-227,NY1
-228,NY3
-229,NYN
-230,PHI
-231,PHN
-232,PIT
-233,PRO
-234,SDN
-235,SFN
-236,SL3
-237,SL5
-238,SLN
-239,SR1
-240,TRN
-241,WAS
-242,WOR
-243,WS8
-300,ATOMS
-301,CHUNICHI
-302,DENA
-303,HANSHIN
-304,HIROSHIMA
-305,KOKUTETSU
-306,NAGOYA
-307,NISHI NIPPON
-308,OSAKA
-309,SANKEI
-310,SHOCHIKU
-311,TAIYO
-312,YAKULT
-313,YOKOHAMA
-314,YOMIURI
-315,YOSHO
-316,ATOMS
-317,CHUNICHI
-318,DENA
-319,HANSHIN
-320,HIROSHIMA
-321,KOKUTETSU
-322,NAGOYA
-323,NISHI NIPPON
-324,OSAKA
-325,SANKEI
-326,SHOCHIKU
-327,TAIYO
-328,YAKULT
-329,YOKOHAMA
-330,YOMIURI
-331,YOSHO
-400,BFP
-401,BRP
-402,BSP
-403,CHP
-404,CLP
-405,CROWN LIGHTER
-406,DAIEI
-407,DAIMAI
-408,HANKYU
-409,KINTETSU
-410,LOTTE
-411,MAINICHI
-412,NANKAI
-413,NIPPON-HAM
-414,NISHITETSU
-415,NITTAKU
-416,NYP
-417,ORIONS
-418,ORIX
-419,PHP
-420,PTP
-421,RAKUTEN
-422,SEIBU
-423,SOFTBANK
-424,TAIHEIYO CLUB
-425,TAKAHASHI
-426,TOEI
-427,TOKYU
-428,TOMBO
-429,CROWN LIGHTER
-430,DAIEI
-431,DAIMAI
-432,HANKYU
-433,KINTETSU
-434,MAINICHI
-435,NANKAI
-436,NIPPON-HAM
-437,NISHITETSU
-438,NITTAKU
-439,ORIONS
-440,ORIX
-441,RAKUTEN
-442,SEIBU
-443,SOFTBANK
-444,TAIHEIYO CLUB
-445,TAKAHASHI
-446,TOEI
-447,TOKYU
-448,TOMBO
-500,BINGGRAE
-501,CHUNGBO
-502,DOOSAN
-503,HAITAI
-504,HANWHA
-505,HYUNDAI
-506,KIA
-507,KT
-508,KIWOOM
-509,LG
-510,LOTTE
-511,MBC
-512,NC
-513,NEXEN
-514,OB
-515,PACIFIC
-516,SBW
-517,SK
-518,SSG
-519,SAMMI
-520,SAMSUNG
-521,WOORI
-600,BL2
-601,BL3
-602,BR3
-603,BR4
-604,BS2
-605,CL3
-606,CL5
-607,CL6
-608,CN2
-609,CN3
-610,IN2
-611,KC2
-612,LS2
-613,ML3
-614,NY4
-615,PH4
-616,PT1
-617,RC2
-618,RIC
-619,SL4
-620,SR2
-621,TL1
-622,TL2
-623,WS7
-624,WS9
-700,BLF
-701,BRF
-702,BUF
-703,CHF
-704,IND
-705,KCF
-706,NEW
-707,PTF
-708,SLF
-800,ALT
-801,BLU
-802,BSU
-803,CHU
-804,CNU
-805,KCU
-806,MLU
-807,PHU
-808,SLU
-809,SPU
-810,WIL
-811,WSU
-900,ASAHI
-901,CHUBU NIPPON
-902,DAI TOKYO
-903,EAGLES
-904,GOLD STAR
-905,KINKI
-906,KINKI NIPPON
-907,KINKO
-908,KINSEI
-909,KORAKUEN
-910,KUROWASHI
-911,KYOJIN
-912,KYUEI
-913,LION
-914,PACIFIC
-915,SANGYO
-916,SENATORS
-917,TSUBASA
-918,YAMATO
-919,ASAHI
-920,CHUBU NIPPON
-921,DAI TOKYO
-922,EAGLES
-923,GOLD STAR
-924,KINKI
-925,KINKI NIPPON
-926,KINKO
-927,KINSEI
-928,KORAKUEN
-929,KUROWASHI
-930,KYOJIN
-931,KYUEI
-932,LION
-933,SANGYO
-934,SENATORS
-935,TSUBASA
-936,YAMATO
+teamID,team_fullName,currentTeam
+ANA,Anaheim Angels,Los Angeles Angels
+BAL,Baltimore Orioles,Baltimore Orioles
+BLA,St. Louis Browns,St. Louis Cardinals
+BOS,Boston Red Sox,Boston Red Sox
+CAL,California Angels,Los Angeles Angels
+CHA,Chicago White Sox,Chicago White Sox
+CLE,Cleveland Guardians,Cleveland Guardians
+DET,Detroit Tigers,Detroit Tigers
+KC1,Kansas City Royals,Kansas City Royals
+KCA,Kansas City Athletics,Oakland Athletics
+LAA,Los Angeles Angels,Los Angeles Angels
+MIN,Minnesota Twins,Minnesota Twins
+ML4,Milwaukee Brewers,Milwaukee Brewers
+MLA,Milwaukee Brewers,Milwaukee Brewers
+NYA,New York Yankees,New York Yankees
+OAK,Oakland Athletics,Oakland Athletics
+PHA,Philadelphia Athletics,Oakland Athletics
+SE1,Seattle Pilots,Milwaukee Brewers
+SEA,Seattle Mariners,Seattle Mariners
+SLA,St. Louis Browns,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays,Tampa Bay Devil Rays
+TEX,Texas Rangers,Texas Rangers
+TOR,Toronto Blue Jays,Toronto Blue Jays
+WS1,Washington Senators,Minnesota Twins
+WS2,Washington Senators,Texas Rangers
+ARI,Arizona Diamondbacks,Arizona Diamondbacks
+ATL,Atlanta Braves,Atlanta Braves
+BFN,Buffalo Bisons,"	Toronto Blue Jays"
+BLN,Baltimore Orioles,
+BRO,Brooklyn Dodgers,Los Angeles Dodgers
+BSN,Boston Braves,Atlanta Braves
+CHC,Chicago Cubs,Chicago Cubs
+CIN,Cincinnati Reds,Cincinnati Reds
+CL2,Cleveland Blues,
+CL4,Cleveland Spiders,Cleveland Guardians
+CN1,Cincinnati Reds,Cincinnati Reds
+COL,Colorado Rockies,Colorado Rockies
+DTN,Detroit Wolverines,
+FLO,Florida Marlins,Miami Marlins
+HAR,Hartford Dark Blues,
+HOU,Houston Astros,Houston Astros
+IN1,Indianapolis Blues,
+IN3,Indianapolis Hoosiers,
+KCN,Kansas City Cowboys,
+LAD,Los Angeles Dodgers,Los Angeles Dodgers
+LS1,Louisville Grays,
+LS3,Louisville Colonels,
+MIA,Miami Marlins,Miami Marlins
+MIL,Milwaukee Brewers,Milwaukee Brewers
+ML1,Milwaukee Braves,Atlanta Braves
+ML2,Milwaukee Grays,
+MON,Montreal Expos,Washington Nationals
+NY1,New York Giants,San Francisco Giants
+NY3,New York Mutuals,
+NYN,New York Mets,New York Mets
+PHI,Philadelphia Phillies,Philadelphia Phillies
+PHN,Philadelphia Athletics,Oakland Athletics
+PIT,Pittsburgh Pirates,Pittsburgh Pirates
+PRO,Providence Grays,
+SDN,San Diego Padres,San Diego Padres
+SFN,San Francisco Giants,San Francisco Giants
+SL3,St. Louis Brown Stockings,
+SL5,St. Louis Maroons,
+SLN,St. Louis Cardinals,St. Louis Cardinals
+SR1,Syracuse Stars,
+TRN,Troy Trojans,
+WAS,Washington Senators,Washington Nationals
+WOR,Worcester Ruby Legs,
+WS8,Washington Nationals,Washington Nationals
+ATOMS,Sankei Atoms,Tokyo Yakult Swallows
+CHUNICHI,Chunichi Dragons,Chunichi Dragons
+DENA,Yokohama DeNA BayStars,Yokohama DeNA BayStars
+HANSHIN,Hanshin Tigers,Hanshin Tigers
+HIROSHIMA,Hiroshima Toyo Carp,Hiroshima Toyo Carp
+KOKUTETSU,Kokutetsu Swallows,Tokyo Yakult Swallows
+NAGOYA,Nagoya Dragons,Chunichi Dragons
+NISHI NIPPON,Nishi Nippon Pirates,
+OSAKA,Osaka Tigers,Hanshin Tigers
+SANKEI,Sankei Atoms,Tokyo Yakult Swallows
+SHOCHIKU,Shochiku Robins,Yokohama DeNA BayStars
+TAIYO,Taiyo Whales,Yokohama DeNA BayStars
+YAKULT,Tokyo Yakult Swallows,Tokyo Yakult Swallows
+YOKOHAMA,Yokohama BayStars,Yokohama DeNA BayStars
+YOMIURI,Yomiuri Giants,Yomiuri Giants
+YOSHO,Taiyo-Shochiku Robins,Yokohama DeNA BayStars
+ATOMS,Sankei Atoms,Tokyo Yakult Swallows
+CHUNICHI,Chunichi Dragons,Chunichi Dragons
+DENA,Yokohama DeNA BayStars,Yokohama DeNA BayStars
+HANSHIN,Hanshin Tigers,Hanshin Tigers
+HIROSHIMA,Hiroshima Toyo Carp,Hiroshima Toyo Carp
+KOKUTETSU,Kokutetsu Swallows,Tokyo Yakult Swallows
+NAGOYA,Nagoya Dragons,Chunichi Dragons
+NISHI NIPPON,Nishi Nippon Pirates,
+OSAKA,Osaka Tigers,Hanshin Tigers
+SANKEI,Sankei Atoms,Tokyo Yakult Swallows
+SHOCHIKU,Shochiku Robins,Yokohama DeNA BayStars
+TAIYO,Taiyo Whales,Yokohama DeNA BayStars
+YAKULT,Tokyo Yakult Swallows,Tokyo Yakult Swallows
+YOKOHAMA,Yokohama BayStars,Yokohama DeNA BayStars
+YOMIURI,Yomiuri Giants,Yomiuri Giants
+YOSHO,Taiyo-Shochiku Robins,Yokohama DeNA BayStars
+CROWN LIGHTER,Crown Lighter Lions,Saitama Seibu Lions
+DAIEI,Daiei Stars,Chiba Lotte Marines
+DAIMAI,Daimai Orions,Chiba Lotte Marines
+HANKYU,Hankyu Braves,Orix Buffaloes
+KINTETSU,Osaka Kintetsu Buffaloes,Orix Buffaloes
+LOTTE,Lotte Giants,Lotte Giants
+MAINICHI,Mainichi Orions,Chiba Lotte Marines
+NANKAI,Nankai Baseball Club,Fukuoka SoftBank Hawks
+NIPPON-HAM,Nippon-Ham Fighters,Hokkaido Nippon-Ham Fighters
+NISHITETSU,Nishitetsu Baseball Club,
+NITTAKU,Nittaku Home Flyers,Hokkaido Nippon-Ham Fighters
+ORIONS,Tokyo Orions,Chiba Lotte Marines
+ORIX,Orix Buffaloes,Orix Buffaloes
+RAKUTEN,Tohoku Rakuten Golden Eagles,Tohoku Rakuten Golden Eagles
+SEIBU,Saitama Seibu Lions,Saitama Seibu Lions
+SOFTBANK,Fukuoka SoftBank Hawks,Fukuoka SoftBank Hawks
+TAIHEIYO CLUB,Taiheiyo Club Lions,Saitama Seibu Lions
+TAKAHASHI,Takahashi Unions,
+TOEI,Toei Flyers,Hokkaido Nippon-Ham Fighters
+TOKYU,Tokyu Flyers,Hokkaido Nippon-Ham Fighters
+TOMBO,Tombo Unions,
+BINGGRAE,Binggrae Eagles,Hanwha Eagles
+CHUNGBO,Chungbo Pintos,
+DOOSAN,Doosan Bears,Doosan Bears
+HAITAI,Haitai Tigers,KIA Tigers
+HANWHA,Hanwha Eagles,Hanwha Eagles
+HYUNDAI,Hyundai Unicorns,
+KIA,KIA Tigers,KIA Tigers
+KT,KT Wiz,KT Wiz
+KIWOOM,Kiwoom Heroes,Kiwoom Heroes
+LG,LG Twins,LG Twins
+LOTTE,Lotte Giants,Lotte Giants
+MBC,MBC Chungyong,LG Twins
+NC,NC Dinos,NC Dinos
+NEXEN,Nexen Heroes,Kiwoom Heroes
+OB,OB Bears,Doosan Bears
+PACIFIC,Pacific Dolphins,
+SBW,SBW Raiders,
+SK,SK Wyverns,SSG Landers
+SSG,SSG Landers,SSG Landers
+SAMMI,Sammi Superstars,
+SAMSUNG,Samsung Lions,Samsung Lions
+WOORI,Woori Heroes,Kiwoom Heroes
+BL2,Baltimore Orioles,
+BL3,Baltimore Orioles,
+BR3,Brooklyn Bridegrooms,
+BR4,Brooklyn Gladiators,
+BS2,Boston Reds,
+CL3,Cleveland Blues,
+CL5,Columbus Buckeyes,
+CL6,Columbus Solons,
+CN2,Cincinnati Red Stockings,
+CN3,Cincinnati Kelly's Killers,
+IN2,Indianapolis Hoosiers,
+KC2,Kansas City Cowboys,
+LS2,Louisville Colonels,
+ML3,Milwaukee Brewers,
+NY4,New York Metropolitans,
+PH4,Philadelphia Athletics,
+PT1,Pittsburg Alleghenys,
+RC2,Rochester Broncos,
+RIC,Richmond Virginians,
+SL4,St. Louis Browns,
+SR2,Syracuse Stars,
+TL1,Toledo Blue Stockings,
+TL2,Toledo Maumees,
+WS7,Washington Nationals,
+WS9,Washington Statesmen,
+BLF,Baltimore Terrapins,
+BRF,Brooklyn Tip-Tops,
+BUF,Buffalo Bisons,
+CHF,Chicago Whales,
+IND,Indianapolis Hoosiers,
+KCF,Kansas City Packers,
+NEW,Newark Pepper,
+PTF,Pittsburgh Rebels,
+SLF,St. Louis Terriers,
+ALT,Altoona Mountain City,
+BLU,Baltimore Monumentals,
+BSU,Boston Reds,
+CHU,Chunichi Dragons,
+CNU,Cincinnati Outlaw Reds,
+KCU,Kansas City Cowboys,
+MLU,Milwaukee Brewers,
+PHU,Philadelphia Keystones,
+SLU,St. Louis Maroons,
+SPU,St. Paul White Caps,
+WIL,Wilmington Quicksteps,
+WSU,Washington Nationals,
+ASAHI,Asahi Baseball Club,
+CHUBU NIPPON,Chubu Nippon,
+DAI TOKYO,Dai Tokyo,
+EAGLES,Eagles,
+GOLD STAR,Kinsei Stars,
+KINKI,Kinki Great Ring,
+KINKI NIPPON,Kinki Nippon Club,
+KINKO,Nagoya Kinko,
+KINSEI,Kinsei Stars,
+KORAKUEN,Korakuen Eagles,
+KUROWASHI,Kurowashi,
+KYOJIN,Tokyo Kyojin,
+KYUEI,Kyuei Flyers,
+LION,Lion Baseball Club ,
+PACIFIC2,Pacific Baseball Club,
+SANGYO,Sangyo Baseball Club,
+SENATORS,Tokyo Senators,
+TSUBASA,Tsubasa Baseball Club,
+YAMATO,Yamato Baseball Club,
+BFP,Buffalo Bisons,
+BRP,Brooklyn Ward's Wonders,
+BSP,Boston Reds,
+CHP,Chicago Pirates,
+CLP,Cleveland Infants,
+NYP,New York Metropolitans,
+PHP,Philadelphia Athletics,
+PTP,Pittsburgh Burghers,
