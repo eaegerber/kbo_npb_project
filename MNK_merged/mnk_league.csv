@@ -1,11 +1,3 @@
-lgID,country,lg_Value
-AL,USA,American League
-NL,USA,National League
-CL,Japan,Central League
-PL,Japan,Pacific League
-KBO,Korea,Korea Baseball Organization
-AA,USA,American Association
-FL,USA,Federal League
-UA,USA,Union Association
-JBL,Japan,Japan Baseball League
-UPL,USA,Players League
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e22de4072b757f4eb090d625f84aa179d6cedce90c7b9f5f604c8d2b602db8
+size 284
