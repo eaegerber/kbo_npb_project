@@ -31,15 +31,15 @@ This work is conducted by **Myungkeun Park** under the supervision of **Prof. Er
 
 ### Sources
 
-- \*\*KBO (official): https://www.koreabaseball.com/Default.aspx
-- \*\*NPB (official): https://npb.jp/eng/
-- \*\*NPB stats: http://npbstats.com/eng/
-- \*\*MLB (Lahman): https://sabr.org/lahman-database/
+- **KBO** (official): https://www.koreabaseball.com/Default.aspx
+- **NPB** (official): https://npb.jp/eng/
+- **NPB** stats: http://npbstats.com/eng/
+- **MLB** (Lahman): https://sabr.org/lahman-database/
 
 ### Cross-League Players Matching
 
 - Primary match key: FirstName + LastName + DOB
-  -\*Manual adjustments applied for translation/romanization differences across leagues
+- Manual adjustments applied for translation/romanization differences across leagues
 - A unified `playerID` assigned in `MNK_people` and used to link all stats tables
 
 ### Deduplication & Integrity Rules
@@ -159,7 +159,7 @@ kbo_npb_project/
 ### Observed pattern
 
 - **Strikeouts (SO):** generally **under-predicted** across league-transition
-- **HR / BB / sOther:** often **over-predicted** regardless of league-transition
+- **HR / BB / Other:** often **over-predicted** regardless of league-transition
 
 ## Future Works
 
