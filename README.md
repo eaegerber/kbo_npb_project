@@ -147,8 +147,8 @@ kbo_npb_project/
 ### Fitting MNLR
 
 - We made a long dataset with 4 rows per observation (HR/BB/SO/Other) and use
-  `sample_weight = count`. This is equivalent to repeating labels many times but more efficient
-- Fit `LogisticRegression(multi_class="multinomial", solver="lbfgs", penalty="l2", C=1e6, max_iter=5000)` using the long X/y and `sample_weight`.
+  `sample_weight = count` which is equivalent to repeating labels many times but more efficient
+- Fit `LogisticRegression(multi_class="multinomial", solver="lbfgs", penalty="l2", C=1e6, max_iter=5000)` using the long X/y and `sample_weight`
 
 ### Evaluation
 
@@ -158,8 +158,8 @@ kbo_npb_project/
 
 ### Observed pattern
 
-- **Strikeouts (SO):** generally **under-predicted** across transitions.
-- **HR / BB / Other:** often **over-predicted**.
+- **Strikeouts (SO):** generally **under-predicted** across league-transition
+- **HR / BB / sOther:** often **over-predicted** regardless of league-transition
 
 ## Future Works
 
@@ -170,13 +170,12 @@ kbo_npb_project/
 
 ### Modeling (MNLR & beyond)
 
-- **MNLR tuning.** Penalization (`C`), class weights, solver convergence, and leakage-safe standardization (fit on train only).
-- **Alternatives.** Try GLMnet-style multinomial, gradient boosting (XGBoost/LightGBM), and shallow **NN** with softmax.
+- **MNLR tuning**: Penalization (`C`), class weights, solver convergence, and leakage-safe standardization; fit on train only.
+- **Alternatives**: Try other multinomial, gradient boosting (XGBoost), and Neural Network.
 
 ### Extensions
 
-- **Pitching & fielding.** Mirror the framework for `MNK_pitching` (e.g., PA-level outcomes vs batters faced) and `MNK_fielding`.
-- **Panel for next-season.** Publish a ready-to-fit panel with t (features) → t+1 (outcomes) alignment for movers and non-movers.
+- **Pitching & fielding**: Mirror the framework for `MNK_pitching` (e.g. PA-level outcomes vs batters faced) and `MNK_fielding`
 
 ### Data + Pipeline
 
