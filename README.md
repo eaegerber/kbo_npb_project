@@ -168,11 +168,6 @@ kbo_npb_project/
 - **Incremental scraping**: Add checkpoints e.g. max `yearID` per league so scrapers fetch **only new seasons**
 - **Reflect any changes to existing data**: Consider hashing rows to detect updates so we can only reprocess changed data
 
-### Modeling (MNLR & beyond)
-
-- **MNLR tuning**: Penalization (`C`), class weights, solver convergence, and leakage-safe standardization; fit on train only.
-- **Alternatives**: Try other multinomial, gradient boosting (XGBoost), and Neural Network.
-
 ### Extensions
 
 - **Pitching & fielding**: Mirror the framework for `MNK_pitching` (e.g. PA-level outcomes vs batters faced) and `MNK_fielding`
